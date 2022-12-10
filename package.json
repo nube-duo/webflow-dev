@@ -12,8 +12,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "esbuild": "^0.15.1",
-    "serve": "^14.0.1"
+    "esbuild": "^0.15.18",
+    "serve": "^14.0.2"
   },
   "dependencies": {
     "@splidejs/splide": "^4.0.7"
