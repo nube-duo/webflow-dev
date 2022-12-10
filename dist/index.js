@@ -1,4 +1,2 @@
-(() => {
-  // index.js
-  console.log("Hello world!");
-})();
+(()=>{console.log("Hello there!");})();
+//# sourceMappingURL=index.js.map

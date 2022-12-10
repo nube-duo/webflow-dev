@@ -6,8 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "serve",
-    "build": "esbuild index.js --bundle --outfile=dist/index.js --watch",
-    "build-by-file": "node builder.js"
+    "build": "node builder.js"
   },
   "author": "",
   "license": "ISC",

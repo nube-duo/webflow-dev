@@ -1,7 +1,7 @@
 {
   "version": 3,
   "sources": ["../index.js"],
-  "sourcesContent": ["console.log(\"Hello world!\");"],
+  "sourcesContent": ["console.log(\"Hello there!\");"],
   "mappings": "MAAA,QAAQ,IAAI,cAAc",
   "names": []
 }
